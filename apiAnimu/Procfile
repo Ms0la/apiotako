@@ -1,0 +1,1 @@
+web: java -D spring.profiles.active=production -jar build/libs/apiAnimu-0.0.1-SNAPSHOT
